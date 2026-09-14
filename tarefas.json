@@ -1,0 +1,37 @@
+[
+    {
+        "texto": "Bem Vindo (A)!",
+        "categoria": "Casa",
+        "concluida": false
+    },
+    {
+        "texto": "Este Software é bem simples",
+        "categoria": "Escola",
+        "concluida": false
+    },
+    {
+        "texto": "Qualquer duvida contate o desenvolvedor via Discord",
+        "categoria": "Trabalho",
+        "concluida": false
+    },
+    {
+        "texto": "Discord: norky.wav",
+        "categoria": "Casa",
+        "concluida": false
+    },
+    {
+        "texto": "O bug do (x) Sumir é normal!",
+        "categoria": "Trabalho",
+        "concluida": false
+    },
+    {
+        "texto": "Pro X aparecer é só aumentar a largura da janela",
+        "categoria": "Trabalho",
+        "concluida": false
+    },
+    {
+        "texto": "E eu não vou arrumar pq to com preguiça.",
+        "categoria": "Trabalho",
+        "concluida": false
+    }
+]
